@@ -107,7 +107,7 @@ Autenticação JWT
 
 API RESTful
 
-Funcionalidades Avançadas (conforme prompt 5.4)
+Funcionalidades Avançadas 
 Sistema de temporizador visível para cada questão
 
 Marcação de questões para revisão posterior
@@ -136,6 +136,7 @@ Recebe feedback imediato e estatísticas de desempenho
 Pode exportar resultados ou continuar estudando áreas problemáticas
 
 Considerações para Desenvolvimento
+
 Priorizar a experiência do usuário com TDAH em todas as decisões de design
 
 Implementar feedback visual claro e não-distrativo
@@ -146,7 +147,8 @@ Desenvolver com abordagem mobile-first para garantir responsividade
 
 Incluir testes automatizados para garantir funcionamento correto
 
-Próximos Passos
+Plano de desenvolvimento 
+
 Desenvolver estrutura básica do frontend e backend
 
 Implementar sistema de importação de simulados
